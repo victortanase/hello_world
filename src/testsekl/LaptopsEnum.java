@@ -7,6 +7,7 @@ public enum LaptopsEnum {
 	Laptopuri("Laptopuri"),
 	Resigilate("Resigilate");  
 	
+
 	   private final String stringValue;
 	   LaptopsEnum(final String s) { stringValue = s; }
 	   public String toString() { return stringValue; }
