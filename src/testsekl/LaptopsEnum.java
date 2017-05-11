@@ -5,6 +5,7 @@ public enum LaptopsEnum {
 	Cooler("Standuri/Coolere laptop"), 
 	HDD("Hard disk-uri"), 
 	Laptopuri("Laptopuri"),
+        Periferice("Periferice"),
 	Resigilate("Resigilate");  
 	
 
