@@ -10,5 +10,7 @@ public enum LaptopsEnum {
 
 	   private final String stringValue;
 	   LaptopsEnum(final String s) { stringValue = s; }
-	   public String toString() { return stringValue; }
+		
+	   public String toString() { System.out.println("test");
+			        	return stringValue; }
 }
